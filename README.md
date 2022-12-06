@@ -1,2 +1,2 @@
-# JavaScript-FrontEnd-Alura
+# JavaScript-Front-Alura
 Repositório destinado à realização dos cursos da formação de JavasScript para Front-end da Alura
